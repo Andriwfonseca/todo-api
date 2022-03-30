@@ -18,6 +18,11 @@
   "homepage": "https://github.com/Andriwfonseca/todo-api#readme",
   "dependencies": {
     "@types/node": "^17.0.23",
-    "mysql2": "^2.3.3"
+    "dotenv": "^16.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  },
+  "devDependencies": {
+    "@types/sequelize": "^4.28.11"
   }
 }
