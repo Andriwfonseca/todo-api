@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Andriwfonseca/todo-api#readme",
   "dependencies": {
+    "@types/node": "^17.0.23",
     "mysql2": "^2.3.3"
   }
 }
